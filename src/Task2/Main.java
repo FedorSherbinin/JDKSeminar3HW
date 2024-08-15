@@ -17,6 +17,4 @@ public class Main {
         System.out.println("Массивы равны: " + compareArrays(array1, array2));
         System.out.println("Массивы разные: " + compareArrays(array3, array4));
     }
-
-
 }
